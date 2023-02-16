@@ -31,13 +31,13 @@ button{
     width: 100%;
     height: 100%;
     border-radius: 12px;
+    box-shadow: 10px 10px 2px  rgba(0,0,0,0.2);
 }
 button{
     margin-top: 1%;
     margin-left: 45%;
-    /* height: 50px; */
-    /* width: 10%; */
-    border-radius: 30px;
+    box-shadow: 8px 8px 2px;
+    border-radius: 10px;
     background-color: rgb(137, 168, 252);
     border: none;
     text-align: center;
