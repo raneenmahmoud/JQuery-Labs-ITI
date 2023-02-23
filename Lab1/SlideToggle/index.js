@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".img1").click(function(){
+    $(".img1").hover(function(){
       $(".div1 p").slideToggle("slow");
     });
   });
